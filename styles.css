@@ -1,0 +1,25 @@
+     body {
+        color:black;
+        background:#cea4f5; 
+    margin: 0px;
+    }
+
+
+    header { 
+        border-bottom: solid 2px rgb(106, 19, 221);
+   padding: 20px;
+    font-size:32px;
+    color: rgb(106, 19, 221)
+}
+section{ 
+background:#a472d3 
+padding-bottom= "80px";
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto { 
+ margin-right: 5%;
+ font-family: "Edu VIC WA NT Beginner", cursive;
+}
